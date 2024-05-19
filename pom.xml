@@ -31,8 +31,7 @@
   <organization>
     <name>Google LLC</name>
   </organization>
-  <scm child.scm.connection.inherit.append.path="false"  child.scm.developerConnection.inherit.append.path="false"
-       child.scm.url.inherit.append.path="false">
+  <scm child.scm.connection.inherit.append.path="false" child.scm.developerConnection.inherit.append.path="false" child.scm.url.inherit.append.path="false">
     <connection>scm:git:git@github.com:googleapis/java-bigquery.git</connection>
     <developerConnection>scm:git:git@github.com:googleapis/java-bigquery.git</developerConnection>
     <url>https://github.com/googleapis/java-bigquery</url>
@@ -124,7 +123,7 @@
       <dependency>
         <groupId>org.threeten</groupId>
         <artifactId>threeten-extra</artifactId>
-        <version>1.7.2</version>
+        <version>1.8.0</version>
       </dependency>
 
       <!-- Test dependencies -->
